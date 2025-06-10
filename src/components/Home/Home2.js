@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am 19 years old and I am just getting started in this field. I'm looking forward to improving more and enjoying this journey!
+              I am a student and I am just getting started in my career. I'm looking forward to improving more and enjoying this journey!
               <br />
               <br />I am fluent in classics like
               <i>
@@ -30,6 +30,11 @@ function Home2() {
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b>           
+              </i>
+              <br />
+              I also show a good level of understanding in &nbsp;
+              <i>
+                <b className="purple">SQL, Excel, Tableau, or data visualization tools. </b>           
               </i>
               <br />
               <br />

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I am <span className="purple">Sameer Aleem </span>
             from <span className="purple"> Sydney Australia.</span>
-            <br /> I am a second year sudent pursuing Information Systems at Western Sydney University.
+            <br /> I am currently pursuing Bachelor of Business (IT and International Business) at Macquarie University.
             <br />
             Additionally, I am currently employed as a Sales Assistant at JD Sports.
             <br />
