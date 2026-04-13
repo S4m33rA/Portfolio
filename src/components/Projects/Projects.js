@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import restaurant from "../../Assets/Projects/restaurant.jpg";
 import password from "../../Assets/Projects/password.jpg";
 import movie from "../../Assets/Projects/movie.png";
 import pokemondb from "../../Assets/Projects/pokemondb.jpeg";
@@ -42,11 +41,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../../Assets/Projects/pokemondb.jpeg")}  // Update path based on your actual image
+              imgPath={pokemondb}
               isBlog={false}
               title="Pokémon Database Project"
               description="University Assignment which is a Microsoft Access database system designed to manage Pokémon data, including types, abilities, evolutions, and battles. Built with relational tables, forms, queries, reports, and navigation menu."
-              ghLink="https://github.com/S4m33rA/PokemonDB.git" // optional: upload your .accdb or screenshots to GitHub
+              ghLink="https://github.com/S4m33rA/PokemonDB.git"
               demoLink="https://drive.google.com/file/d/18f4OD4xcqyF_bAXPOpW5Bq5mxUCh1AEj/view?usp=sharing"
             />
           </Col>
