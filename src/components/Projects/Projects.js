@@ -36,7 +36,8 @@ function Projects() {
               isBlog={false}
               title="Movie-DB"
               description="This project was created as a way for me to showcase my skills as a Junior Web Developer. The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API."
-              ghLink="https://github.com/S4m33rA/Movie-DB"
+              ghLink="https://github.com/S4m33rA/movie-pulse-portfolio"
+              demoLink="https://movie-pulse-portfolio.vercel.app/"
             />
           </Col>
 
