@@ -6,6 +6,7 @@ import password from "../../Assets/Projects/password.jpg";
 import movie from "../../Assets/Projects/movie.png";
 import pokemondb from "../../Assets/Projects/pokemondb.jpeg";
 import taskapp from "../../Assets/Projects/taskapp.png";
+import navigation from "../../Assets/Projects/navigation.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -60,6 +61,17 @@ function Projects() {
               description="A task management application focused on organizing tasks, tracking progress, and improving day-to-day productivity."
               ghLink="https://github.com/S4m33rA/Task-Management-App"
               demoLink="sameer-task-management-app-2026.vercel.app"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={navigation}
+              isBlog={false}
+              title="Campus Compass"
+              description="A UX-focused campus navigation concept with one-tap class routing, accessibility preferences, and turn-by-turn style guidance."
+              ghLink="https://github.com/S4m33rA/campus-navigation-demo"
+              demoLink="https://campus-navigation-demo.vercel.app/"
             />
           </Col>
 
