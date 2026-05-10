@@ -1,7 +1,13 @@
-# Portfolio
-Installation: npm install
+# Portfolio (Moved)
 
-In the project directory, you can run: npm start
+This repository is now kept as an assignment snapshot.
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+The actively maintained standalone portfolio project has moved to:
+
+- https://github.com/S4m33rA/sameer-portfolio
+
+Production deployment:
+
+- https://sameer-portfolio-blue.vercel.app
+
+If you are looking for the latest updates, please use the new repository.
